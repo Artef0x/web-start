@@ -1,0 +1,17 @@
+.header {
+  height: 100vh;
+  background-color: rgb(196, 196, 207);
+  align-content: center;
+}
+
+.list {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  justify-content: space-evenly;
+}
+
+.link {
+  text-decoration: none;
+}
