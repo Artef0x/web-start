@@ -35,19 +35,19 @@ img {
 }
 
 .bike {
-  background-image: url(/dev/photo/bycikle.jpg);
+  background-image: url(photo/bycikle.jpg);
   background-size: contain;
 }
 .mouse {
-  background-image: url(../dev/photo/Мышка.jpg);
+  background-image: url(photo/Мышка.jpg);
   background-size: contain;
 }
 
 .inst {
-  background-image: url(../dev/photo/style.jpg);
+  background-image: url(photo/style.jpg);
   background-size: contain;
 }
 .headphones {
-  background-image: url(../dev/photo/Наушники.jpg);
+  background-image: url(photo/Наушники.jpg);
   background-size: contain;
 }
